@@ -8,3 +8,7 @@ contains 2 environment:
   
 2. ellipsoid method in an online framework:
   * to run the simulation and create the graphs - run the jupyter notebook file: "PhilipSetup.ipynb"
+
+
+** note that the code files are partially documented. for further information - contact:
+stav.belo@gmail.com
